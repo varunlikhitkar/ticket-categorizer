@@ -122,3 +122,5 @@ if __name__ == "__main__":
     data = generate_dataset()
     print(data.head(10))
     print("\nCategory distribution:\n", data["category"].value_counts())
+
+# verified
